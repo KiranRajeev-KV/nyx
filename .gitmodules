@@ -1,0 +1,9 @@
+[submodule "nyx-backend"]
+	path = nyx-backend
+	url = https://github.com/KiranRajeev-KV/nyx-backend.git
+[submodule "nyx-app"]
+	path = nyx-app
+	url = https://github.com/KiranRajeev-KV/nyx-app.git
+[submodule "nyx-admin"]
+	path = nyx-admin
+	url = https://github.com/KiranRajeev-KV/nyx-admin.git
